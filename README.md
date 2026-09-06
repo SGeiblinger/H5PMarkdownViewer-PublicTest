@@ -2,7 +2,7 @@
 Test repo for the H5P MarkDown viewer
 
 ## Why?
-To test one of the three inputs.
+To test one of the three inputs modalities -> loading from an external URL.
 
 ## Some markdown for testing
  - List1
